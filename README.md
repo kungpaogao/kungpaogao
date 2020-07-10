@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! I'm Andrew 🦔
+
+Things I like:
+
+- 💻 making stuff (web dev, app dev, learning other things)
+- 🏀 basketball
+- 📷 photography/cameras
+- 🎨 drawing/graphic design
+- ⌨️ mechanical keyboards
 
 <!--
 **kungpaogao/kungpaogao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
