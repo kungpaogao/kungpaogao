@@ -3,9 +3,9 @@
 Things I like:
 
 - 💻 making stuff (web dev, app dev, learning other things)
-- 🏀 basketball
-- 📷 photography/cameras
-- 🎨 drawing/graphic design
+- 🏀 basketball, volleyball
+- 📷 photography, cameras
+- 🎨 drawing, graphic design
 - ⌨️ mechanical keyboards
 
 <!--
