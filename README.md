@@ -2,11 +2,10 @@
 
 Things I like:
 
-- 💻 making stuff (web dev, app dev, learning other things)
+- 💻 making stuff (app dev, web dev, learning other things)
 - 🏀 basketball, volleyball
 - 📷 photography, cameras
 - 🎨 drawing, graphic design
-- ⌨️ mechanical keyboards
 
 <!--
 **kungpaogao/kungpaogao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
